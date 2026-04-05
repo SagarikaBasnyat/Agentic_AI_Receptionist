@@ -1,0 +1,9 @@
+{
+  "id": "fda59e3d-252c-498c-98db-a527d9e5cfac",
+  "name": "service_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

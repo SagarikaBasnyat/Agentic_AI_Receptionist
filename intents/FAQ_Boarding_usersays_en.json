@@ -1,0 +1,54 @@
+[
+  {
+    "id": "76ab9427-c10c-4fd0-a473-67975fabc531",
+    "data": [
+      {
+        "text": "boarding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75b32a48-07a3-41d2-81ac-94753951f04d",
+    "data": [
+      {
+        "text": "Can you tell me more on boarding service?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e9dbaaf-8d46-4731-81d8-061f4cf777c5",
+    "data": [
+      {
+        "text": "What happens in a boarding service ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1821bf0e-6641-411c-849e-7a7927f1df3a",
+    "data": [
+      {
+        "text": "What is a boarding service?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

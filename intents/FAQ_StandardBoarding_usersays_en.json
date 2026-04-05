@@ -1,0 +1,80 @@
+[
+  {
+    "id": "de6b6492-0ed8-4bc6-b2f1-d4636027b996",
+    "data": [
+      {
+        "text": "What is the standard boarding price?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ae0ced0-f0de-48cd-9b40-ce5ecb8bf0aa",
+    "data": [
+      {
+        "text": "Tell me about the standard boarding option. What do you provide in standard boarding?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29cd4580-d395-402e-8027-fb8d2dba1bca",
+    "data": [
+      {
+        "text": "What comes in the Standard Room?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "072c4283-639f-4fd7-8f72-75951ff116ba",
+    "data": [
+      {
+        "text": "How big is the Standard Room?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57c474b6-1ad4-436a-bbd5-c4058bb91dae",
+    "data": [
+      {
+        "text": "What does standard boarding include?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0029375-e32b-4c6d-9eaf-9aa37f7ec69d",
+    "data": [
+      {
+        "text": "What is the Standard Room?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

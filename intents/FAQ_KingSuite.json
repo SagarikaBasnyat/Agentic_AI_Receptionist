@@ -1,0 +1,35 @@
+{
+  "id": "6b941643-b8ac-46e3-8396-c87806a5eba5",
+  "name": "FAQ_KingSuite",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In  King Suite your dog will have a 12′×8′ luxury room with a twin-size day bed, dining bowls, flat-screen TV, chandelier, climate control, solid walls, and a private patio. It costs $99/night ($109 peak)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

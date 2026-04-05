@@ -1,0 +1,80 @@
+[
+  {
+    "id": "b2760530-6dea-4c07-9d38-409441d2c43d",
+    "data": [
+      {
+        "text": "grooming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0ed425c-8277-46ea-ba05-1cf5bd949a9b",
+    "data": [
+      {
+        "text": "Can I know about your grooming service ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c9d7c41-d668-4a39-ac0c-585115ea500d",
+    "data": [
+      {
+        "text": "Can you explain your grooming process?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2f5da31-b556-42dd-8408-9d608fa398c9",
+    "data": [
+      {
+        "text": "What is included in a standard groom?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9edf14d0-d2df-4e6f-8c84-1d0c9a8fccb3",
+    "data": [
+      {
+        "text": "What do you do in grooming?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9187ac5-155f-4c6b-9088-35ea089fb8cc",
+    "data": [
+      {
+        "text": "Do you provide grooming services?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

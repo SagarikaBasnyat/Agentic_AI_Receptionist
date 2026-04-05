@@ -1,0 +1,80 @@
+[
+  {
+    "id": "762b31f7-ff3c-4c99-b7f1-d2624e948d1c",
+    "data": [
+      {
+        "text": "boarding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ae7dc4a-5960-4631-8ebf-9ade4347b527",
+    "data": [
+      {
+        "text": "grooming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "baaf20a7-cfcc-47a4-8908-2a238b0f9cc4",
+    "data": [
+      {
+        "text": "I want to book fro grooming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f06950a-7751-4a26-8c39-4da5d9b8157e",
+    "data": [
+      {
+        "text": "I want to book for boarding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7f19dbc-08df-4620-9c54-3323f790aa6c",
+    "data": [
+      {
+        "text": "book for boarding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7f279c3-ff57-4fe3-8574-81113511b2f2",
+    "data": [
+      {
+        "text": "book for grooming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

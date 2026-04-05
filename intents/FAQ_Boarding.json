@@ -1,0 +1,35 @@
+{
+  "id": "86b542c4-5f84-4cec-98d3-382d55d2b8ac",
+  "name": "FAQ_Boarding",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The boarding services include private, climate-controlled suites with raised beds, TVs, dining bowls, and access to a private patio. You can choose between our Standard Room or King Suite depending on your dog’s size and comfort preferences."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "0014d7bd-5a40-42ea-8f14-1ad48db7e1e1",
+  "name": "FAQ_Grooming_Services",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "During grooming, we provide a full professional cleaning and care session for your dog. Our Standard Groom includes a bath, gentle blow dry, trimming of the face, paws, and sanitary areas, ear cleaning, and a nail trim and file. It’s a complete grooming process designed to keep your pet clean, healthy, and comfortable. If you’d like."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

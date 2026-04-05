@@ -1,0 +1,18 @@
+[
+  {
+    "value": "grooming",
+    "synonyms": [
+      "grooming",
+      "groom",
+      "haircut"
+    ]
+  },
+  {
+    "value": "boarding",
+    "synonyms": [
+      "boarding",
+      "board",
+      "stay"
+    ]
+  }
+]

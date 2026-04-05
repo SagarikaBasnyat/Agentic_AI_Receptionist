@@ -1,0 +1,54 @@
+[
+  {
+    "id": "0b99471f-b981-442a-9145-6a59f03c49c2",
+    "data": [
+      {
+        "text": "Tell me about your services.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9994d966-4ba0-4a09-a7d3-a0d58010c615",
+    "data": [
+      {
+        "text": "What kind of services do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46651869-a3c2-4a71-8432-d16685ad8816",
+    "data": [
+      {
+        "text": "What do you provide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d0353f9-b17c-447d-8c98-7822747da46c",
+    "data": [
+      {
+        "text": "What services do you offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

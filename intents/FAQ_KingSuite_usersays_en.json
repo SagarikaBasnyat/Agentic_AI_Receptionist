@@ -1,0 +1,80 @@
+[
+  {
+    "id": "4abfefee-fca3-4d01-8841-3082a6b95727",
+    "data": [
+      {
+        "text": "What comes in the King Suite room?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11ec4097-574c-41f2-94bc-aac09f69f6cc",
+    "data": [
+      {
+        "text": "Do you have a luxury boarding option?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12ff2dbf-d009-4b9c-8f3a-81d396d03673",
+    "data": [
+      {
+        "text": "Tell me about the King Suite. What is the King Suite price?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe32e5d2-3f9b-4599-b59d-09ea4d594b64",
+    "data": [
+      {
+        "text": "How big is the King Suite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df1c1bcf-8f99-4183-8431-2ee8db8b2f9e",
+    "data": [
+      {
+        "text": "What does the King Suite include?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1295398e-b70f-4aac-93e5-705aa07d8fa5",
+    "data": [
+      {
+        "text": "What is the King Suite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

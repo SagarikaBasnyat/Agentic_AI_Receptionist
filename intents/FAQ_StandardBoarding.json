@@ -1,0 +1,35 @@
+{
+  "id": "f3d2430d-4641-44be-a84a-25e325243bc1",
+  "name": "FAQ_StandardBoarding",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Standard Room is a 6′×8′ luxury suite with a raised toddler bed, flat-screen TV, dining bowls, chandelier, climate control, solid walls, and a doggy door to a private patio. It costs $69 per night ($79 peak)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

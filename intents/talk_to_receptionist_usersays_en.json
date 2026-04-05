@@ -1,0 +1,106 @@
+[
+  {
+    "id": "c09a7574-44cc-40a5-8dc8-a7a9ee50ca6d",
+    "data": [
+      {
+        "text": "talk to an agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd0f4247-6b4c-4394-86fc-0c377dcb5617",
+    "data": [
+      {
+        "text": "talk to admin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3aea6bd3-fbf4-4935-8572-17dadddc8fa5",
+    "data": [
+      {
+        "text": "Can I speak to the receptionist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4253953f-63ec-4ff5-8a8e-1e4927639d53",
+    "data": [
+      {
+        "text": "I want to talk with admin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b52af843-f8ea-4b8c-92fb-fa1baecf352c",
+    "data": [
+      {
+        "text": "I want to talk to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a85541a7-4dee-4fb8-8414-22d0dc9c32cf",
+    "data": [
+      {
+        "text": "I need to talk to admin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf634c31-7583-44b5-a2aa-7cb73bcc78d2",
+    "data": [
+      {
+        "text": "Can I speak to staff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdd710e6-d82e-46e0-9b22-52ffb880c380",
+    "data": [
+      {
+        "text": "I want to talk to the receptionist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
